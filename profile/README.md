@@ -1,6 +1,8 @@
 ## More than Solitaire
 
-Computers are for more than playing games!  We like to write them too!  This is the home to free, open source software by the nonprofit organization More Than Solitaire, Inc.
+Computers are for more than playing games!  We like to write them too!  This is the home to free, open source software by the nonprofit organization More Than Solitaire.
+
+Check out our website at morethansolitaire.org.
 
 <!--
 
